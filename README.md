@@ -7,12 +7,13 @@
 
 Hi! I am Munawira Kotyad.
 
-I am currently pursuing my Phd in Computer Science from IIT Bombay. My research interests lie in Microarchitecture Performance. I am primarily conducting research in the area of Address Translation bottlenecks, TLB and Cache Management for Code and Data prefetchers. 
+I am currently pursuing my Phd in Computer Science from IIT Bombay. My research interests lie in Microarchitecture Performance. I am primarily conducting research in the area of Address Translation bottleneckss for modern server and irregular workloads. 
 
-I am working with my supervisor, [Professor Biswa](https://www.cse.iitb.ac.in/~biswa/) at IIT Bombay.
+I am working with [Biswa](https://www.cse.iitb.ac.in/~biswa/) at IIT Bombay.
 
-I will update the site with more info over the next few weeks. 
+I have a Master's  of Science Degree from North Carolina State University, Raleigh. Most of my courses and projects were focused on Microarchitecture, Operating SYstems and Parallel computing. 
+After graduating, I started working as a Core OS developer at Intel Corporation in Oregon. I worked on OS optimization of Windows operating systems across IA architecture. My job required writing kernel drivers to implement various power saving features for Windows OS. 
 
-I will be using this space to update my projects and research progress.
+I will be using this space to update my projects and research progress during my PhD Journey. 
 
 
