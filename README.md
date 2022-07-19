@@ -6,4 +6,4 @@ I am working with my supervisor, [Professor Biswa](https://www.cse.iitb.ac.in/~b
 
 I will update the site with more info over the next few weeks. 
 
-I will be using this space to update my projects and research progres
+I will be using this space to update my projects and research progress.
