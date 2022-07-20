@@ -1,6 +1,6 @@
 
 <picture>
-  <img alt="Munawira Kotyad" src="https://github.com/munawira/munawira.github.io/blob/main/Image/MunaProfile.jpeg" width="274" height="auto" />
+  <img alt="Munawira Kotyad" src="https://github.com/munawira/munawira.github.io/blob/main/Image/MunaProfile.jpeg" width="274" height=auto />
 </picture>
 
 
