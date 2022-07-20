@@ -10,11 +10,11 @@ I am currently pursuing my Phd in Computer Science from [IIT Bombay](https://www
 
 I am working with [Biswa](https://www.cse.iitb.ac.in/~biswa/) at IIT Bombay.
 
-## Education
+## Education:
 
 I have a Master's  of Science Degree from North Carolina State University, Raleigh. Most of my courses and projects were focused on Microarchitecture, Operating Systems and Parallel computing. 
 
-## Experience
+## Experience:
 
 After graduating, I started working as a Core OS developer at Intel Corporation in Oregon. I worked on OS optimization of Windows operating systems across Intel architecture. My work required writing kernel drivers to implement various power saving features for Windows OS. 
 
