@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.url != "/" %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }} · GPU Microarchitecture Research{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  {%- feed_meta -%}
+  {%- seo -%}
+</head>
+<body>
+
+<div class="shell">
+
+  <aside class="rail">
+    <img class="rail-photo" src="{{ '/Image/MunaProfile.jpeg' | relative_url }}" alt="Munawira Kotyad">
+    <p class="rail-name"><a href="{{ '/' | relative_url }}">Munawira<br>Kotyad</a></p>
+    <p class="rail-role">PhD candidate, Computer Architecture<br>IIT Bombay</p>
+
+    <!-- warp issue trace: teal = issued cycle, rust = stalled cycle -->
+    <div class="trace" aria-hidden="true">
+      <i class="on"></i><i class="on"></i><i class="off"></i><i></i><i class="on"></i><i class="off"></i><i class="on"></i><i class="on"></i><i></i><i class="off"></i><i class="on"></i><i class="on"></i><i class="on"></i><i></i><i class="on"></i><i class="off"></i><i class="on"></i><i class="on"></i>
+    </div>
+
+    <nav class="rail-nav">
+      {%- assign u = page.url -%}
+      <a href="{{ '/' | relative_url }}"{% if u == '/' %} class="here"{% endif %}>Home</a>
+      <a href="{{ '/research/' | relative_url }}"{% if u contains '/research' %} class="here"{% endif %}>Research</a>
+      <a href="{{ '/publications/' | relative_url }}"{% if u contains '/publications' %} class="here"{% endif %}>Publications</a>
+      <a href="{{ '/writing/' | relative_url }}"{% if u contains '/writing' or page.layout == 'post' %} class="here"{% endif %}>Writing</a>
+      <a href="{{ '/cv/' | relative_url }}"{% if u contains '/cv' %} class="here"{% endif %}>CV</a>
+    </nav>
+
+    <div class="rail-links">
+      <a href="mailto:{{ site.email }}">Email</a><br>
+      <a href="https://github.com/{{ site.github_username }}">GitHub</a><br>
+      <a href="{{ site.scholar_url }}">Scholar</a><br>
+      <a href="{{ site.linkedin_url }}">LinkedIn</a>
+    </div>
+  </aside>
+
+  <main class="main">
+    {{ content }}
+
+    <footer class="site-foot">
+      © {{ 'now' | date: "%Y" }} Munawira Kotyad · Built with Jekyll, hosted on GitHub Pages
+    </footer>
+  </main>
+
+</div>
+</body>
+</html>
