@@ -26,7 +26,6 @@ up the department's research lab.
 <ul class="news">
   <li><time>Aug 2026</time><span><strong>PRISM</strong> accepted at <strong>ICCD 2026</strong> — priority-ranked instruction scheduling for GPU scoreboard stalls.</span></li>
   <li><time>Aug 2026</time><span><strong>HOOP</strong> accepted at <strong>SBAC-PAD 2026</strong>, Madrid — hint-driven out-of-order issue without per-SM scoreboard logic.</span></li>
-  <li><time>Jul 2026</time><span>Invited to submit an extended version of FlIP to a <strong>JPDC</strong> special issue.</span></li>
   <li><time>May 2026</time><span><strong>Best Paper Award</strong> at ACM Computing Frontiers 2026 in Catania for FlIP.</span></li>
 </ul>
 
