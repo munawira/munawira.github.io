@@ -36,23 +36,10 @@ out-of-order execution. Preprints available on request.</p>
   <p class="pub-meta">Poster · ACM International Conference on Computing Frontiers (CF '26)</p>
 </div>
 
-## Under review
 
-<div class="pub">
-  <p class="pub-title">PILOT — warp scheduling under cross-sub-core congestion</p>
-  <p class="pub-authors"><span class="me">Munawira Kotyad</span>, Virendra Singh</p>
-  <p class="pub-meta">In preparation</p>
-</div>
-
-<div class="pub">
-  <p class="pub-title">Extended FlIP — invited journal version</p>
-  <p class="pub-authors"><span class="me">Munawira Kotyad</span>, Yashvardhan Rathore, Ganesh Sai Shanmukhi, Virendra Singh</p>
-  <p class="pub-meta">Journal of Parallel and Distributed Computing, special issue · invited</p>
-</div>
 
 ## Awards
 
 <ul>
   <li><strong>Best Paper Award</strong>, ACM Computing Frontiers 2026 — FlIP.</li>
-  <li><strong>Intel Quality Award</strong> — power management feature development and Windows 8.1 platform enabling.</li>
 </ul>
