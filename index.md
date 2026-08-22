@@ -5,7 +5,7 @@ title: Home
 
 <h1>GPGPU Microarchitecture Peformance Enhancement</h1>
 
-<p class="lede">I design instruction-issue mechanisms for throughput processors — warp
+<p class="lede">Instruction-issue mechanisms for throughput processors — warp
 scheduling, scoreboard stall reduction, and lightweight out-of-order execution
 for workloads that GPUs were never really built for.</p>
 
