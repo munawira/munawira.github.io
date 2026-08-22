@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<h1>Making GPUs stall less.</h1>
+<h1>GPGPU Microarchitecture Peformance Enhancement</h1>
 
 <p class="lede">I design instruction-issue mechanisms for throughput processors — warp
 scheduling, scoreboard stall reduction, and lightweight out-of-order execution
@@ -11,15 +11,12 @@ for workloads that GPUs were never really built for.</p>
 
 I am a PhD candidate in Computer Science and Engineering at
 [IIT Bombay](https://www.cse.iitb.ac.in/), in Prof. Virendra Singh's CCCP lab.
-My work sits at the front end of the GPU pipeline: the point where a warp has an
-instruction ready, a functional unit is free, and the machine issues nothing
-anyway. Across the benchmark suites I study, roughly 40% of issue cycles are lost
-to that class of stall. Recovering even part of it is cheaper than adding SMs.
+My research interests lie in GPGPU Architecture and Performance, Microarchitecture Performance and OS-Microarch Interactioins. I am primarily conducting research in the area GPU microarchitecture enhancements to accelerate non traditional, scientific and AI GPGPU workloads. The research involves designing novel out of order scheduling techniques and front end pipeline redesign to extract Instruction Level Parallelism from applications with limited data level parallelism.
 
-Before the PhD I spent two and a half years at Intel in Oregon, working on
-processor power management at the OS–hardware boundary. I also teach computer
-architecture and operating systems at Pillai University, Navi Mumbai, where I set
-up the department's research lab.
+I have a Master's of Science Degree from North Carolina State University, Raleigh. Most of my courses and projects were focused on Microarchitecture, Operating Systems and Parallel computing.
+
+After graduating, I started working as a Core OS developer at Intel Corporation in Oregon. I worked on OS optimization of Windows operating systems across Intel architecture. My work required writing kernel drivers to implement various power saving features for Windows OS.
+
 
 ## News
 
