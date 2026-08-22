@@ -34,7 +34,7 @@ bottleneck, and the fix has to come from instruction-level parallelism instead.
 
 <div class="entry">
   <p class="entry-head">Scheduling by what the stall will cost</p>
-  <p class="entry-sub">PRISM · PILOT</p>
+  <p class="entry-sub">PRISM · </p>
   <p>Most warp schedulers rank warps by age or arrival. PRISM ranks instructions
   by a priority score combining expected latency with the size of the dependent
   chain behind them, and applies the same ranking at both the inter-warp and
@@ -64,8 +64,7 @@ bottleneck, and the fix has to come from instruction-level parallelism instead.
 
 I evaluate in [Accel-Sim](https://accel-sim.github.io/) against A100-class
 configurations, using SASS-level analysis and NVBit tracing so the instruction
-stream matches what real silicon executes. Energy comes from AccelWattch; area
-and timing estimates from Synopsys Genus. Benchmarks are drawn from Rodinia,
+stream matches what real silicon executes. Benchmarks are drawn from Rodinia,
 Parboil, and PolyBench, with additional irregular workloads where the suites
 fall short.
 
