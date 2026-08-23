@@ -21,7 +21,7 @@ After graduating, I started working as a Core OS developer at Intel Corporation 
 ## News
 
 <ul class="news">
-  <li><time>Aug 2026</time><span><strong>PRISM</strong> accepted at <strong>ICCD 2026</strong> — priority-ranked instruction scheduling for GPU scoreboard stalls.</span></li>
+  <li><time>Aug 2026</time><span><strong>PRISM</strong> accepted at <strong>ICCD 2026</strong> — priority-ranked instruction scheduling mechanism for GPU scoreboard stalls.</span></li>
   <li><time>Aug 2026</time><span><strong>HOOP</strong> accepted at <strong>SBAC-PAD 2026</strong>, Madrid — hint-driven out-of-order issue without per-SM scoreboard logic.</span></li>
   <li><time>May 2026</time><span><strong>Best Paper Award</strong> at ACM Computing Frontiers 2026 in Catania for FlIP.</span></li>
 </ul>
@@ -37,7 +37,7 @@ After graduating, I started working as a Core OS developer at Intel Corporation 
 <div class="pub">
   <p class="pub-title">PRISM: Priority Ranked Instruction Scheduling Mechanism<span class="tag accepted">Accepted</span></p>
   <p class="pub-authors"><span class="me">M. Kotyad</span>, V. Singh</p>
-  <p class="pub-meta">IEEE International Conference on Computer Design (ICCD 2026)</p>
+  <p class="pub-meta">IEEE International Conference on Computer Design (ICCD 2026), Hong Kong</p>
 </div>
 
 <div class="pub">
