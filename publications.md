@@ -15,11 +15,11 @@ out-of-order execution. Preprints available on request.</p>
 <div class="pub">
   <p class="pub-title">PRISM: Priority Ranked Instruction Scheduling Mechanism<span class="tag accepted">Accepted</span></p>
   <p class="pub-authors"><span class="me">Munawira Kotyad</span>, Virendra Singh</p>
-  <p class="pub-meta">IEEE International Conference on Computer Design (ICCD 2026)</p>
+  <p class="pub-meta"> 44th IEEE International Conference on Computer Design (ICCD 2026), Hong Kong, November 2026</p>
 </div>
 
 <div class="pub">
-  <p class="pub-title">HOOP: Hint-based Out-of-Order Processing for GPGPUs<span class="tag accepted">Accepted</span></p>
+  <p class="pub-title">HOOP: Hint-based Out-of-Order Processing for GPGPUs via Per-Kernel Dependency Analysis<span class="tag accepted">Accepted</span></p>
   <p class="pub-authors"><span class="me">Munawira Kotyad</span>, Ayush Agrawal,Virendra Singh</p>
   <p class="pub-meta">38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2026), Madrid, October 2026</p>
 </div>
