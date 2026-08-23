@@ -42,7 +42,7 @@ After graduating, I started working as a Core OS developer at Intel Corporation 
 
 <div class="pub">
   <p class="pub-title">HOOP: Hint-based Out-of-Order Processing for GPGPUs via Per-Kernel Dependency Analysis<span class="tag accepted">Accepted</span></p>
-  <p class="pub-authors"><span class="me">M. Kotyad</span>,A.Agrawal, V. Singh</p>
+  <p class="pub-authors"><span class="me">M. Kotyad</span>, A.Agrawal, V. Singh</p>
   <p class="pub-meta">IEEE/SBC Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2026), Madrid</p>
 </div>
 
