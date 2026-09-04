@@ -9,7 +9,7 @@ title: Home
 scheduling, scoreboard stall reduction, and lightweight out-of-order execution
 for workloads that GPUs were never really built for.</p>
 
-I am a PhD candidate in Computer Science and Engineering at
+I am a research scholar in Computer Science and Engineering at
 [IIT Bombay](https://www.cse.iitb.ac.in/), in Prof. Virendra Singh's CCCP lab.
 My research interests lie in GPGPU Architecture and Performance, Microarchitecture Performance and OS-Microarch Interactioins. I am primarily conducting research in the area GPU microarchitecture enhancements to accelerate non traditional, scientific and AI GPGPU workloads. The research involves designing novel out of order scheduling techniques and front end pipeline redesign to extract Instruction Level Parallelism from applications with limited data level parallelism.
 
