@@ -21,6 +21,7 @@ After graduating, I started working as a Core OS developer at Intel Corporation 
 ## News
 
 <ul class="news">
+  li><time>Sep 2026</time><span><strong>BB8</strong> accepted at <strong>ASP-DAC '27</strong> — breaking head-of-line stalling in GPGPUs via Instruction Bypassing.</span></li>
   <li><time>Aug 2026</time><span><strong>PRISM</strong> accepted at <strong>ICCD 2026</strong> — priority-ranked instruction scheduling mechanism for GPU scoreboard stalls.</span></li>
   <li><time>Aug 2026</time><span><strong>HOOP</strong> accepted at <strong>SBAC-PAD 2026</strong>, Madrid — hint-driven out-of-order issue without per-SM scoreboard logic.</span></li>
   <li><time>May 2026</time><span><strong>Best Paper Award</strong> at ACM Computing Frontiers 2026 in Catania for FlIP.</span></li>
