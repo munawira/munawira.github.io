@@ -7,9 +7,17 @@ description: Peer-reviewed publications in GPU microarchitecture and computer ar
 
 <h1>Publications</h1>
 
-<p class="lede">Peer-reviewed work on GPU instruction issue, warp scheduling, and
-out-of-order execution. Preprints available on request.</p>
+<!-- <p class="lede">Published and A</p> -->
 
+## 2027
+<div class="pub">
+  <p class="pub-title">BB8:
+Blocking Buffer for breaking head-of-line stalling in GPGPUs via
+Instruction Bypassing.<span class="tag accepted">Accepted</span></p>
+    <p class="pub-authors"><span class="me">Munawira Kotyad</span>, Ganesh Sai Shanmukhi, Yashvardhan Rathore, Virendra Singh</p>
+  <p class="pub-meta"> 32nd Asia and South Pacific Design Automation
+Conference (ASP-DAC), Tokyo, Japan, January 2027</p>
+</div>
 ## 2026
 
 <div class="pub">
