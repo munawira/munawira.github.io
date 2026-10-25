@@ -8,7 +8,7 @@ title: Home
 <p class="lede">Energy efficient Instruction scheduling mechanisms for GPUs.</p>
 
 I am an Associate Professor at Pillai University and Pillai HOC College of Engineering and Technology under Mahatma Education Society. 
-I am a final year research scholar in Computer Science and Engineering at [IIT Bombay](https://www.cse.iitb.ac.in/), in Prof. Virendra Singh's Computer Architecture and Dependable Systems Lab (CADSL). 
+Iam currently in my final year as research scholar in Computer Science and Engineering at [IIT Bombay](https://www.cse.iitb.ac.in/), in Prof. Virendra Singh's Computer Architecture and Dependable Systems Lab (CADSL). 
 My research interests lie in GPGPU Architecture and Performance, Microarchitecture Performance and OS-Microarch Interactioins. I am primarily conducting research in the area of GPU microarchitecture enhancements to accelerate non traditional, scientific and AI GPGPU workloads. The research involves designing novel out of order scheduling techniques and front end pipeline redesign to extract Instruction Level Parallelism from applications with limited data level parallelism.
 
 
