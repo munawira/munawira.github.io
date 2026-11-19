@@ -10,6 +10,13 @@ description: Peer-reviewed publications in GPU microarchitecture and computer ar
 <!-- <p class="lede">Published and A</p> -->
 
 ## 2027
+
+<div class="pub">
+  <p class="pub-title">PILOT: Predictive Issue-time and Latency-aware Ordering Technique for Warp Scheduling in GPGPUs<span class="tag accepted">Accepted</span></p>
+    <p class="pub-authors"><span class="me">Munawira Kotyad</span> Virendra Singh</p>
+  <p class="pub-meta">  2027 Design, Automation & Test in Europe Conference (DATE), Dresden, Germany, March 2027</p>
+</div>
+
 <div class="pub">
   <p class="pub-title">BB8:
 Blocking Buffer for breaking head-of-line stalling in GPGPUs via
@@ -18,6 +25,8 @@ Instruction Bypassing.<span class="tag accepted">Accepted</span></p>
   <p class="pub-meta"> 32nd Asia and South Pacific Design Automation
 Conference (ASP-DAC), Tokyo, Japan, January 2027</p>
 </div>
+
+
 ## 2026
 
 <div class="pub">
