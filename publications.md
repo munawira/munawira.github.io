@@ -24,7 +24,7 @@ Instruction Bypassing.<span class="tag accepted">Accepted</span></p>
     <p class="pub-authors"><span class="me">Munawira Kotyad</span>, Ganesh Sai Shanmukhi, Yashvardhan Rathore, Virendra Singh</p>
   <p class="pub-meta"> 32nd Asia and South Pacific Design Automation
 Conference (ASP-DAC), Tokyo, Japan, January 2027</p>
-  <a href="{{ '[/assets/files/BB](/assets/papers/HOOP_SBACPAD_2026.pdf)' | relative_url }}">PDF</a></p>
+  <a href="{{ '/assets/papers/BB_ASPDAC_tokyo_2027.pdf' | relative_url }}">PDF</a></p>
 </div>
 
 
@@ -40,6 +40,7 @@ Conference (ASP-DAC), Tokyo, Japan, January 2027</p>
   <p class="pub-title">HOOP: Hint-based Out-of-Order Processing for GPGPUs via Per-Kernel Dependency Analysis<span class="tag accepted">Accepted</span></p>
   <p class="pub-authors"><span class="me">Munawira Kotyad</span>, Ayush Agrawal,Virendra Singh</p>
   <p class="pub-meta">38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2026), Madrid, October 2026</p>
+  <a href="{{ '/assets/papers/HOOP_SBACPAD_2026.pdf' | relative_url }}">PDF</a></p>
 </div>
 
 <div class="pub">
