@@ -24,7 +24,7 @@ Instruction Bypassing.<span class="tag accepted">Accepted</span></p>
     <p class="pub-authors"><span class="me">Munawira Kotyad</span>, Ganesh Sai Shanmukhi, Yashvardhan Rathore, Virendra Singh</p>
   <p class="pub-meta"> 32nd Asia and South Pacific Design Automation
 Conference (ASP-DAC), Tokyo, Japan, January 2027</p>
-  <a href="{{ '/assets/papers/BB_ASPDAC_tokyo_2027.pdf' | relative_url }}">PDF</a></p>
+<p  <a href="{{ '/assets/papers/BB_ASPDAC_tokyo_2027.pdf' | relative_url }}">PDF</a></p>
 </div>
 
 
