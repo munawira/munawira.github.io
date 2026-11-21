@@ -33,7 +33,8 @@ Conference (ASP-DAC), Tokyo, Japan, January 2027.
 <div class="pub">
   <p class="pub-title">PRISM: Priority Ranked Instruction Scheduling Mechanism<span class="tag accepted">Accepted</span></p>
   <p class="pub-authors"><span class="me">Munawira Kotyad</span>, Virendra Singh</p>
-  <p class="pub-meta"> 44th IEEE International Conference on Computer Design (ICCD 2026), Hong Kong, November 2026</p>
+  <p class="pub-meta"> 44th IEEE International Conference on Computer Design (ICCD 2026), Hong Kong, November 2026.
+    <a href="{{ '/assets/papers/PRISM_ICCD_HK_2026.pdf' | relative_url }}">PDF</a></p>
 </div>
 
 <div class="pub">
