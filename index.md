@@ -13,14 +13,6 @@ My research interests lie in GPGPU Architecture and Performance, Microarchitectu
 
 
 
-## News
-
-<ul class="news">
-  <li><time>Sep 2026</time><span><strong>BB8</strong> accepted at <strong>ASP-DAC '27</strong> - breaking head-of-line stalling in GPGPUs via Instruction Bypassing.</span></li>
-  <li><time>Aug 2026</time><span><strong>PRISM</strong> accepted at <strong>ICCD 2026</strong> - priority-ranked instruction scheduling mechanism for GPU scoreboard stalls.</span></li>
-  <li><time>Aug 2026</time><span><strong>HOOP</strong> accepted at <strong>SBAC-PAD 2026</strong>, Madrid - hint-driven out-of-order issue without per-SM scoreboard logic.</span></li>
-  <li><time>May 2026</time><span><strong>Best Paper Award</strong> at ACM Computing Frontiers 2026 in Catania for FlIP.</span></li>
-</ul>
 
 
 
@@ -79,26 +71,16 @@ Conference (ASP-DAC), Tokyo, Japan, January 2027. <a href="{{ '/assets/papers/BB
 </div>
 
 
+## News
 
-## Selected work
+<ul class="news">
+  <li><time>Sep 2026</time><span><strong>BB8</strong> accepted at <strong>ASP-DAC '27</strong> - breaking head-of-line stalling in GPGPUs via Instruction Bypassing.</span></li>
+  <li><time>Aug 2026</time><span><strong>PRISM</strong> accepted at <strong>ICCD 2026</strong> - priority-ranked instruction scheduling mechanism for GPU scoreboard stalls.</span></li>
+  <li><time>Aug 2026</time><span><strong>HOOP</strong> accepted at <strong>SBAC-PAD 2026</strong>, Madrid - hint-driven out-of-order issue without per-SM scoreboard logic.</span></li>
+  <li><time>May 2026</time><span><strong>Best Paper Award</strong> at ACM Computing Frontiers 2026 in Catania for FlIP.</span></li>
+</ul>
 
-<div class="pub">
-  <p class="pub-title"><a href="https://doi.org/10.1145/3801487.3801823">FlIP: Flow-based Instruction Processing for Out-of-Order Scheduling in GPGPUs</a><span class="tag award">Best Paper</span></p>
-  <p class="pub-authors"><span class="me">M. Kotyad</span>, Y. Rathore, G. S. Shanmukhi, V. Singh</p>
-  <p class="pub-meta">ACM Computing Frontiers (CF '26) · <a href="https://doi.org/10.1145/3801487.3801823">10.1145/3801487.3801823</a></p>
-</div>
 
-<div class="pub">
-  <p class="pub-title">PRISM: Priority Ranked Instruction Scheduling Mechanism<span class="tag accepted">Accepted</span></p>
-  <p class="pub-authors"><span class="me">M. Kotyad</span>, V. Singh</p>
-  <p class="pub-meta">IEEE International Conference on Computer Design (ICCD 2026), Hong Kong</p>
-</div>
-
-<div class="pub">
-  <p class="pub-title">HOOP: Hint-based Out-of-Order Processing for GPGPUs via Per-Kernel Dependency Analysis<span class="tag accepted">Accepted</span></p>
-  <p class="pub-authors"><span class="me">M. Kotyad</span>, A.Agrawal, V. Singh</p>
-  <p class="pub-meta">IEEE/SBC Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2026), Madrid</p>
-</div>
 
 <p style="margin-top:22px"><a href="{{ '/publications/' | relative_url }}">All publications →</a></p>
 
