@@ -23,31 +23,47 @@ My research interests lie in GPGPU Architecture and Performance, Microarchitectu
 </ul>
 
 
+
+
 <h1>Publications</h1>
 
 <!-- <p class="lede">Published and A</p> -->
 
 ## 2027
+
+<div class="pub">
+  <p class="pub-title">PILOT: Predictive Issue-time and Latency-aware Ordering Technique for Warp Scheduling in GPGPUs<span class="tag accepted">Accepted</span></p>
+    <p class="pub-authors"><span class="me">Munawira Kotyad</span> Virendra Singh</p>
+  <p class="pub-meta">  2027 Design, Automation & Test in Europe Conference (DATE), Dresden, Germany, March 2027</p>
+</div>
+
+
 <div class="pub">
   <p class="pub-title">BB8:
 Blocking Buffer for breaking head-of-line stalling in GPGPUs via
 Instruction Bypassing.<span class="tag accepted">Accepted</span></p>
     <p class="pub-authors"><span class="me">Munawira Kotyad</span>, Ganesh Sai Shanmukhi, Yashvardhan Rathore, Virendra Singh</p>
   <p class="pub-meta"> 32nd Asia and South Pacific Design Automation
-Conference (ASP-DAC), Tokyo, Japan, January 2027</p>
+Conference (ASP-DAC), Tokyo, Japan, January 2027. <a href="{{ '/assets/papers/BB_ASPDAC_tokyo_2027.pdf' | relative_url }}">PDF</a> </p>
 </div>
+
+
+
 ## 2026
 
 <div class="pub">
   <p class="pub-title">PRISM: Priority Ranked Instruction Scheduling Mechanism<span class="tag accepted">Accepted</span></p>
   <p class="pub-authors"><span class="me">Munawira Kotyad</span>, Virendra Singh</p>
-  <p class="pub-meta"> 44th IEEE International Conference on Computer Design (ICCD 2026), Hong Kong, November 2026</p>
+  <p class="pub-meta"> 44th IEEE International Conference on Computer Design (ICCD 2026), Hong Kong, November 2026.
+  <a href="{{ '/assets/papers/PRISM_ICCD_HK_2026.pdf' | relative_url }}">PDF</a></p>
 </div>
 
 <div class="pub">
   <p class="pub-title">HOOP: Hint-based Out-of-Order Processing for GPGPUs via Per-Kernel Dependency Analysis<span class="tag accepted">Accepted</span></p>
   <p class="pub-authors"><span class="me">Munawira Kotyad</span>, Ayush Agrawal,Virendra Singh</p>
-  <p class="pub-meta">38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2026), Madrid, October 2026</p>
+  <p class="pub-meta">38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD 2026), Madrid, October 2026
+  <a href="{{ '/assets/papers/HOOP_SBACPAD_2026.pdf' | relative_url }}">PDF</a></p>
+  
 </div>
 
 <div class="pub">
